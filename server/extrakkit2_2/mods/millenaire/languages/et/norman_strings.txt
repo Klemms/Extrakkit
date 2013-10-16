@@ -1,0 +1,56 @@
+
+culture.norman=Normaalane
+
+//Norman:
+villager.abbot=Abt
+villager.carpenter=Puussepp
+villager.cattleFarmerMale=Mees veise farmer
+villager.cattleFarmerFemale=Nais veise farmer
+villager.boy=Poiss
+villager.girl=Tüdruk
+villager.teenagerMale= Meessoost nooruk
+villager.teenagerFemale=Naissoost nooruk
+villager.farmer=farmer
+villager.merchant_viking=viiking
+villager.merchant_weapon=relv
+villager.merchant_plant=
+villager.merchant_art=kunst
+villager.merchant_wool=vill
+villager.merchant_food=Toit
+villager.guard=valvur
+villager.guildmaster=Gildi meister
+villager.knight=Rüütel
+villager.lady=Daam
+villager.lumberman=Puuraidur
+villager.merchant=Kaupmees
+villager.miner=Kiviraidur
+villager.monk=Munk
+villager.priest=Preester
+villager.seneschal=
+villager.smith=Sepp
+villager.wife=Abikaasa
+
+villager.lonelumberman=Üksildane puuraidur
+villager.lonelumbermantaiga=Üksildase puuraiduri taiga
+villager.loneminer=Üksildane kiviraidur
+villager.lonemonk=Üksildane munk
+villager.loneabbot=Üksildane abt
+villager.alchemist=Alkeemik
+villager.alchemistassistant=Alkeemiku assistent
+villager.alchemistapprentice=Alkeemiku õpipoiss
+villager.bandit=Bandiit
+villager.armoredbandit=Soomustatud bandiit
+villager.felonbaron=Kurjategijast parun
+villager.felonsoldier=Kurjategijast sõdur
+
+
+
+shop.townhall=Kesk-hoone
+shop.forge=Sepikoda
+shop.armoury=Relvastus
+shop.bakery=Pagariäri
+shop.cattlefarm=Veise kasvatuse farm
+shop.pigfarm=Sea farm
+shop.sheepchickenfarm=Lamba ja kana farm
+shop.tavern=Kõrts
+shop.lumberman=Puuraidur
